@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(245, 245, 245, 0.8);
+    /* Делаем фон немного прозрачным */
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.selection__conteiner {
+    display: grid;
+    grid-template-columns: repeat(3, 360px);
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.d-block {
+    width: 100px;
+}
