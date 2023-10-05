@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3qQMNAL7kfbXdfDpmiZhR0ad4fqsMBCJwfpTFaNKnqz9okmNy0ZI5veZ4ycu+ii3SN4jvkO05Ml+6uxBQJgCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\New\\Desktop\\homework_09\\MyForstWebApplication\\MyForstWebApplication\\MyForstWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\New\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\New\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\New\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\New\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\New\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\New\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\New\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
